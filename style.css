@@ -1,0 +1,65 @@
+body{
+    background-color: wheat;
+}
+
+#candidate {
+    border-radius: 10%;
+    border-color: black;
+    box-sizing: border-box;
+    margin-left: auto;
+      margin-right: auto;
+      width: 20%;
+}
+
+.buttonClass {
+    border-radius: 10%;
+    border-color: burlywood;
+    border-style: inherit;
+    margin-left: auto;
+      margin-right: auto;
+      
+}
+
+button:hover {
+    background-color: green;
+}
+/* for circle */
+.theDiv{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 10px;
+}
+.theDiv1{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: blue;
+    margin: 10px;
+}
+
+
+.whiteBoxes{
+    
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+}
+.whiteBoxes1{
+    
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+}
+
+.hold{
+    border: solid red 4px;
+}
+.hide{
+    display: none;
+}
